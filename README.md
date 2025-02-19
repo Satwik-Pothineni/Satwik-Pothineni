@@ -1,9 +1,8 @@
 # Hi 👋, I'm Satwik
 
 ## About Me
-- 💬 Ask me about Data Structures and Algorithms, Socket Programming, Linux
-- 📫 Reach me at satwikpothineni@gmail.com
-- ⚡ Fun fact: I'm also a Financial Peer Mentor
+I’m a driven computer science student and software engineer, always experimenting with cutting-edge tools and methods—especially in AI and machine learning. I take on challenging problems and seek out innovative solutions, refining my skills with every new project. My ultimate goal is to keep growing as an engineer, pushing boundaries in both traditional software development and advanced AI/ML initiatives.
+
 ## Connect with Me
 <a href="https://linkedin.com/in/satwik-pothineni" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
