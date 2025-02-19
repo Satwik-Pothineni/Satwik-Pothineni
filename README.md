@@ -31,6 +31,7 @@ TCP/IP, DNS, Routing, Subnetting, Network Security, Socket Programming
 IAM, Cloud Security, Incident Response, NIST, MITRE ATT&CK, OWASP Top 10  
 
 **AI**
+
 LangChain,LangGraph,Retrieval Augmented Generation(RAG), Llama Index, OpenAI API,Llama 3(LLM),GPT-3.5(LLM)
 
 
