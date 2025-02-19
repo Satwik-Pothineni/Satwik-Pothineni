@@ -4,10 +4,15 @@
 - 💬 Ask me about Data Structures and Algorithms, Socket Programming, Linux
 - 📫 Reach me at satwikpothineni@gmail.com
 - ⚡ Fun fact: I'm also a Financial Peer Mentor
-
 ## Connect with Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/satwik-pothineni)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/satwik171236)
+<a href="https://linkedin.com/in/satwik-pothineni" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
+</a>
+
+<a href="https://www.leetcode.com/satwik171236" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30">
+</a>
+
 ## Skills & Technologies
 
 ### 🖥️ Languages  
