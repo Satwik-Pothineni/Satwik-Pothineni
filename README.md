@@ -30,8 +30,7 @@ CI/CD, Git, Ansible, AWS (S3, Lambda, SNS, SQS, Redshift, Aurora), Azure
 TCP/IP, DNS, Routing, Subnetting, Network Security, Socket Programming  
 IAM, Cloud Security, Incident Response, NIST, MITRE ATT&CK, OWASP Top 10  
 
-###**AI**
-
+**AI**
 LangChain,LangGraph,Retrieval Augmented Generation(RAG), Llama Index, OpenAI API,Llama 3(LLM),GPT-3.5(LLM)
 
 
