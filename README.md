@@ -6,9 +6,8 @@
 - ⚡ Fun fact: I'm also a Financial Peer Mentor
 
 ## Connect with Me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://linkedin.com/in/satwik-pothineni)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/satwik-pothineni)
 [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/satwik171236)
-
 ## Skills & Technologies
 
 ### 🖥️ Languages  
